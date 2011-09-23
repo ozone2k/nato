@@ -1,0 +1,628 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: shadowbox-js\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-29 20:23-0500\n"
+"PO-Revision-Date: 2009-06-29 20:23-0500\n"
+"Last-Translator: Matt Martz <matt@sivel.net>\n"
+"Language-Team: Matt Martz <matt@sivel.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /var/www/stable/wp-content/plugins/shadowbox-js\n"
+"X-Poedit-SearchPath-0: inc\n"
+
+#: inc/admin.php:436
+#: inc/admin_self_post.php:457
+msgid "Settings"
+msgstr ""
+
+#: inc/admin.php:466
+#: inc/admin_self_post.php:496
+msgid "Shadowbox JS"
+msgstr ""
+
+#: inc/admin.php:474
+#: inc/admin_self_post.php:504
+msgid "These are general options for the Shadowbox Javascript that tell Shadowbox how to run, how to look and what language to use."
+msgstr ""
+
+#: inc/admin.php:478
+#: inc/admin_self_post.php:508
+msgid "Javascript Library"
+msgstr ""
+
+#: inc/admin.php:482
+#: inc/admin_self_post.php:512
+msgid "None"
+msgstr ""
+
+#: inc/admin.php:491
+#: inc/admin_self_post.php:521
+msgid "Default is None."
+msgstr ""
+
+#: inc/admin.php:496
+#: inc/admin_self_post.php:526
+msgid "Language"
+msgstr ""
+
+#: inc/admin.php:506
+#: inc/admin_self_post.php:536
+msgid "Default is en."
+msgstr ""
+
+#: inc/admin.php:512
+#: inc/admin_self_post.php:542
+msgid "Enable Smart Loading"
+msgstr ""
+
+#: inc/admin.php:516
+#: inc/admin.php:547
+#: inc/admin.php:564
+#: inc/admin.php:577
+#: inc/admin.php:604
+#: inc/admin.php:617
+#: inc/admin.php:660
+#: inc/admin.php:673
+#: inc/admin.php:716
+#: inc/admin.php:729
+#: inc/admin.php:742
+#: inc/admin.php:815
+#: inc/admin.php:848
+#: inc/admin.php:861
+#: inc/admin.php:908
+#: inc/admin.php:921
+#: inc/admin.php:934
+#: inc/admin.php:947
+#: inc/admin.php:991
+#: inc/admin.php:1002
+#: inc/admin_self_post.php:546
+#: inc/admin_self_post.php:577
+#: inc/admin_self_post.php:594
+#: inc/admin_self_post.php:607
+#: inc/admin_self_post.php:634
+#: inc/admin_self_post.php:647
+#: inc/admin_self_post.php:690
+#: inc/admin_self_post.php:703
+#: inc/admin_self_post.php:746
+#: inc/admin_self_post.php:759
+#: inc/admin_self_post.php:772
+#: inc/admin_self_post.php:845
+#: inc/admin_self_post.php:878
+#: inc/admin_self_post.php:891
+#: inc/admin_self_post.php:938
+#: inc/admin_self_post.php:951
+#: inc/admin_self_post.php:964
+#: inc/admin_self_post.php:977
+#: inc/admin_self_post.php:1021
+#: inc/admin_self_post.php:1032
+msgid "true"
+msgstr ""
+
+#: inc/admin.php:517
+#: inc/admin.php:548
+#: inc/admin.php:565
+#: inc/admin.php:578
+#: inc/admin.php:605
+#: inc/admin.php:618
+#: inc/admin.php:661
+#: inc/admin.php:674
+#: inc/admin.php:717
+#: inc/admin.php:730
+#: inc/admin.php:743
+#: inc/admin.php:816
+#: inc/admin.php:849
+#: inc/admin.php:862
+#: inc/admin.php:909
+#: inc/admin.php:922
+#: inc/admin.php:935
+#: inc/admin.php:948
+#: inc/admin.php:990
+#: inc/admin.php:1001
+#: inc/admin_self_post.php:547
+#: inc/admin_self_post.php:578
+#: inc/admin_self_post.php:595
+#: inc/admin_self_post.php:608
+#: inc/admin_self_post.php:635
+#: inc/admin_self_post.php:648
+#: inc/admin_self_post.php:691
+#: inc/admin_self_post.php:704
+#: inc/admin_self_post.php:747
+#: inc/admin_self_post.php:760
+#: inc/admin_self_post.php:773
+#: inc/admin_self_post.php:846
+#: inc/admin_self_post.php:879
+#: inc/admin_self_post.php:892
+#: inc/admin_self_post.php:939
+#: inc/admin_self_post.php:952
+#: inc/admin_self_post.php:965
+#: inc/admin_self_post.php:978
+#: inc/admin_self_post.php:1020
+#: inc/admin_self_post.php:1031
+msgid "false"
+msgstr ""
+
+#: inc/admin.php:520
+#: inc/admin_self_post.php:550
+msgid "Enabling this will only load Shadowbox and its dependencies when needed based on the content of your posts.\tPlease note that when enabling this Shadowbox will not be loaded if rel=\"shadowbox\" is not found in the content of your post(s).  If you experience problems after enabling this, try disabling. Default is false."
+msgstr ""
+
+#: inc/admin.php:526
+#: inc/admin_self_post.php:556
+msgid "Players"
+msgstr ""
+
+#: inc/admin.php:538
+#: inc/admin_self_post.php:568
+msgid "The list of enabled or disabled players. Default is HTML, IFRAME, IMG, QT, SWF and WMP."
+msgstr ""
+
+#: inc/admin.php:543
+#: inc/admin_self_post.php:573
+msgid "Enable FLV Support"
+msgstr ""
+
+#: inc/admin.php:551
+#: inc/admin_self_post.php:581
+msgid "By enabling FLV support you are agreeing to the the <a href=\"http://creativecommons.org/licenses/by-nc-sa/3.0/\">noncommercial license</a> used by JW FLV Media Player. The JW FLV Media Player is licensed under the terms of the <a href=\"http://creativecommons.org/licenses/by-nc-sa/3.0/\">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License</a>. After enabling FLV support you will need to select FLV from the list of players above. Default is false."
+msgstr ""
+
+#: inc/admin.php:555
+#: inc/admin_self_post.php:585
+msgid "Advanced Configuration"
+msgstr ""
+
+#: inc/admin.php:556
+#: inc/admin_self_post.php:586
+msgid "Show Advanced Configuration"
+msgstr ""
+
+#: inc/admin.php:560
+#: inc/admin_self_post.php:590
+msgid "Animate"
+msgstr ""
+
+#: inc/admin.php:568
+#: inc/admin_self_post.php:598
+msgid "Set this false to disable all fancy animations (except fades). This can improve the overall effect on computers with poor performance. Defaults to true."
+msgstr ""
+
+#: inc/admin.php:573
+#: inc/admin_self_post.php:603
+msgid "Fade Animations"
+msgstr ""
+
+#: inc/admin.php:581
+#: inc/admin_self_post.php:611
+msgid "Set this false to disable all fading animations. Defaults to true."
+msgstr ""
+
+#: inc/admin.php:586
+#: inc/admin_self_post.php:616
+msgid "Animation Sequence"
+msgstr ""
+
+#: inc/admin.php:595
+#: inc/admin_self_post.php:625
+msgid "The animation sequence to use when resizing Shadowbox. May be either \"wh\" (width first, then height), \"hw\" (height first, then width), or \"sync\" (both simultaneously). Defaults to \"sync\"."
+msgstr ""
+
+#: inc/admin.php:600
+#: inc/admin_self_post.php:630
+msgid "Modal"
+msgstr ""
+
+#: inc/admin.php:608
+#: inc/admin_self_post.php:638
+msgid "Set this true to disable listening for mouse clicks on the overlay that will close Shadowbox. Defaults to false."
+msgstr ""
+
+#: inc/admin.php:613
+#: inc/admin_self_post.php:643
+msgid "Show Overlay"
+msgstr ""
+
+#: inc/admin.php:621
+#: inc/admin_self_post.php:651
+msgid "Set this false to disable showing the overlay. Defaults to true."
+msgstr ""
+
+#: inc/admin.php:626
+#: inc/admin_self_post.php:656
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/admin.php:631
+#: inc/admin_self_post.php:661
+msgid "The color to use for the modal overlay (in hex). Defaults to \"#000\"."
+msgstr ""
+
+#: inc/admin.php:636
+#: inc/admin_self_post.php:666
+msgid "Overlay Opacity"
+msgstr ""
+
+#: inc/admin.php:641
+#: inc/admin_self_post.php:671
+msgid "The opacity to use for the modal overlay. Defaults to 0.8."
+msgstr ""
+
+#: inc/admin.php:646
+#: inc/admin_self_post.php:676
+msgid "Flash Background Color"
+msgstr ""
+
+#: inc/admin.php:651
+#: inc/admin_self_post.php:681
+msgid "The default background color to use for Flash movies. Defaults to \"#000000\"."
+msgstr ""
+
+#: inc/admin.php:656
+#: inc/admin_self_post.php:686
+msgid "Auto-Play Movies"
+msgstr ""
+
+#: inc/admin.php:664
+#: inc/admin_self_post.php:694
+msgid "Set this false to disable automatically playing movies when they are loaded. Defaults to true."
+msgstr ""
+
+#: inc/admin.php:669
+#: inc/admin_self_post.php:699
+msgid "Show Movie Controls"
+msgstr ""
+
+#: inc/admin.php:677
+#: inc/admin_self_post.php:707
+msgid "Set this false to disable displaying QuickTime and Windows Media player movie control bars. Defaults to true."
+msgstr ""
+
+#: inc/admin.php:682
+#: inc/admin_self_post.php:712
+msgid "Slideshow Delay"
+msgstr ""
+
+#: inc/admin.php:687
+#: inc/admin_self_post.php:717
+msgid "A delay (in seconds) to use for slideshows. If set to anything other than 0, this value determines an interval at which Shadowbox will automatically proceed to the next piece in the gallery. Defaults to 0."
+msgstr ""
+
+#: inc/admin.php:692
+#: inc/admin_self_post.php:722
+msgid "Resize Duration"
+msgstr ""
+
+#: inc/admin.php:697
+#: inc/admin_self_post.php:727
+msgid "The duration (in seconds) of the resizing animations. Defaults to 0.55."
+msgstr ""
+
+#: inc/admin.php:702
+#: inc/admin_self_post.php:732
+msgid "Fade Duration"
+msgstr ""
+
+#: inc/admin.php:707
+#: inc/admin_self_post.php:737
+msgid "The duration (in seconds) of the fade animations. Defaults to 0.35."
+msgstr ""
+
+#: inc/admin.php:712
+#: inc/admin_self_post.php:742
+msgid "Display Navigation"
+msgstr ""
+
+#: inc/admin.php:720
+#: inc/admin_self_post.php:750
+msgid "Set this false to hide the gallery navigation controls. Defaults to true."
+msgstr ""
+
+#: inc/admin.php:725
+#: inc/admin_self_post.php:755
+msgid "Continuous"
+msgstr ""
+
+#: inc/admin.php:733
+#: inc/admin_self_post.php:763
+msgid "Set this true to enable \"continuous\" galleries. By default, the galleries will not let a user go before the first image or after the last. Enabling this feature will let the user go directly to the first image in a gallery from the last one by selecting \"Next\". Defaults to false."
+msgstr ""
+
+#: inc/admin.php:738
+#: inc/admin_self_post.php:768
+msgid "Display Counter"
+msgstr ""
+
+#: inc/admin.php:746
+#: inc/admin_self_post.php:776
+msgid "Set this false to hide the gallery counter. Counters are never displayed on elements that are not part of a gallery. Defaults to true."
+msgstr ""
+
+#: inc/admin.php:751
+#: inc/admin_self_post.php:781
+msgid "Counter Type"
+msgstr ""
+
+#: inc/admin.php:755
+#: inc/admin_self_post.php:785
+msgid "default"
+msgstr ""
+
+#: inc/admin.php:756
+#: inc/admin_self_post.php:786
+msgid "skip"
+msgstr ""
+
+#: inc/admin.php:759
+#: inc/admin_self_post.php:789
+msgid "The mode to use for the gallery counter. May be either \"default\" or \"skip\". The default counter is a simple \"1 of 5\" message. The skip counter displays a separate link to each piece in the gallery, enabling quick navigation in large galleries. Defaults to \"default\"."
+msgstr ""
+
+#: inc/admin.php:764
+#: inc/admin_self_post.php:794
+msgid "Counter Limit"
+msgstr ""
+
+#: inc/admin.php:769
+#: inc/admin_self_post.php:799
+msgid "Limits the number of counter links that will be displayed in a \"skip\" style counter. If the actual number of gallery elements is greater than this value, the counter will be restrained to the elements immediately preceding and following the current element. Defaults to 10."
+msgstr ""
+
+#: inc/admin.php:774
+#: inc/admin_self_post.php:804
+msgid "Viewport Padding"
+msgstr ""
+
+#: inc/admin.php:779
+#: inc/admin_self_post.php:809
+msgid "The amount of padding (in pixels) to maintain around the edge of the browser window. Defaults to 20."
+msgstr ""
+
+#: inc/admin.php:784
+#: inc/admin_self_post.php:814
+msgid "Handle Oversize"
+msgstr ""
+
+#: inc/admin.php:788
+#: inc/admin_self_post.php:818
+msgid "none"
+msgstr ""
+
+#: inc/admin.php:789
+#: inc/admin_self_post.php:819
+msgid "resize"
+msgstr ""
+
+#: inc/admin.php:790
+#: inc/admin_self_post.php:820
+msgid "drag"
+msgstr ""
+
+#: inc/admin.php:793
+#: inc/admin_self_post.php:823
+msgid "The mode to use for handling content that is too large for the viewport. May be one of \"none\", \"resize\", or \"drag\" (for images). The \"none\" setting will not alter the image dimensions, though clipping may occur. Setting this to \"resize\" enables on-the-fly resizing of large content. In this mode, the height and width of large, resizable content will be adjusted so that it may still be viewed in its entirety while maintaining its original aspect ratio. The \"drag\" mode will display an oversized image at its original resolution, but will allow the user to drag it within the view to see portions that may be clipped. Defaults to \"resize\"."
+msgstr ""
+
+#: inc/admin.php:798
+#: inc/admin_self_post.php:828
+msgid "Handle Unsupported"
+msgstr ""
+
+#: inc/admin.php:802
+#: inc/admin_self_post.php:832
+msgid "link"
+msgstr ""
+
+#: inc/admin.php:803
+#: inc/admin_self_post.php:833
+msgid "remove"
+msgstr ""
+
+#: inc/admin.php:806
+#: inc/admin_self_post.php:836
+msgid "The mode to use for handling unsupported media. May be either \"link\" or \"remove\". Media are unsupported when the browser plugin required to display the media properly is not installed. The link option will display a user-friendly error message with a link to a page where the needed plugin can be downloaded. The remove option will simply remove any unsupported gallery elements from the gallery before displaying it. With this option, if the element is not part of a gallery, the link will simply be followed. Defaults to \"link\"."
+msgstr ""
+
+#: inc/admin.php:811
+#: inc/admin_self_post.php:841
+msgid "Auto Dimensions"
+msgstr ""
+
+#: inc/admin.php:819
+#: inc/admin_self_post.php:849
+msgid "Set this true to automatically set the initialHeight and initialWidth automatically from the configured object's height and width. Defaults to false."
+msgstr ""
+
+#: inc/admin.php:824
+#: inc/admin_self_post.php:854
+msgid "Initial Height"
+msgstr ""
+
+#: inc/admin.php:829
+#: inc/admin_self_post.php:859
+msgid "The height of Shadowbox (in pixels) when it first appears on the screen. Defaults to 160."
+msgstr ""
+
+#: inc/admin.php:834
+#: inc/admin_self_post.php:864
+msgid "Initial Width"
+msgstr ""
+
+#: inc/admin.php:839
+#: inc/admin_self_post.php:869
+msgid "The width of Shadowbox (in pixels) when it first appears on the screen. Defaults to 320."
+msgstr ""
+
+#: inc/admin.php:844
+#: inc/admin_self_post.php:874
+msgid "Enable Keys"
+msgstr ""
+
+#: inc/admin.php:852
+#: inc/admin_self_post.php:882
+msgid "Set this false to disable keyboard navigation of galleries. Defaults to true."
+msgstr ""
+
+#: inc/admin.php:857
+#: inc/admin_self_post.php:887
+msgid "Skip Setup"
+msgstr ""
+
+#: inc/admin.php:865
+#: inc/admin_self_post.php:895
+msgid "Set this true to skip Shadowbox.setup() during Shadowbox.init(). Defaults to false."
+msgstr ""
+
+#: inc/admin.php:870
+#: inc/admin_self_post.php:900
+msgid "Flash Params"
+msgstr ""
+
+#: inc/admin.php:875
+#: inc/admin_self_post.php:905
+msgid "A list of parameters (in a JavaScript object) that will be passed to a flash &lt;object&gt;. For a partial list of available parameters, see <a href=\"http://kb.adobe.com/selfservice/viewContent.do?externalId=tn_12701\">this page</a>. Only one parameter is specified by default: bgcolor. Defaults to {bgcolor:\"#000000\", allowFullScreen:true}."
+msgstr ""
+
+#: inc/admin.php:880
+#: inc/admin_self_post.php:910
+msgid "Flash Vars"
+msgstr ""
+
+#: inc/admin.php:885
+#: inc/admin_self_post.php:915
+msgid "A list of variables (in a JavaScript object) that will be passed to a flash movie as <a href=\"http://kb.adobe.com/selfservice/viewContent.do?externalId=tn_16417\">FlashVars</a>. Defaults to {}."
+msgstr ""
+
+#: inc/admin.php:890
+#: inc/admin_self_post.php:920
+msgid "Flash Version"
+msgstr ""
+
+#: inc/admin.php:895
+#: inc/admin_self_post.php:925
+msgid "The minimum Flash version required to play a flash movie (as a string). Defaults to \"9.0.0\"."
+msgstr ""
+
+#: inc/admin.php:899
+#: inc/admin_self_post.php:929
+msgid "Shadowbox Automation"
+msgstr ""
+
+#: inc/admin.php:900
+#: inc/admin_self_post.php:930
+msgid "These options will give you the capability to have Shadowbox automatically used for all of a certain file type."
+msgstr ""
+
+#: inc/admin.php:904
+#: inc/admin_self_post.php:934
+msgid "Image Links"
+msgstr ""
+
+#: inc/admin.php:912
+#: inc/admin.php:925
+#: inc/admin.php:938
+#: inc/admin.php:951
+#: inc/admin_self_post.php:942
+#: inc/admin_self_post.php:955
+#: inc/admin_self_post.php:968
+#: inc/admin_self_post.php:981
+msgid "Default is true."
+msgstr ""
+
+#: inc/admin.php:917
+#: inc/admin_self_post.php:947
+msgid "Movie Links"
+msgstr ""
+
+#: inc/admin.php:930
+#: inc/admin_self_post.php:960
+msgid "Music Links"
+msgstr ""
+
+#: inc/admin.php:943
+#: inc/admin_self_post.php:973
+msgid "YouTube and Google Video Links"
+msgstr ""
+
+#: inc/admin.php:955
+#: inc/admin_self_post.php:985
+msgid "Sizes"
+msgstr ""
+
+#: inc/admin.php:959
+#: inc/admin_self_post.php:989
+msgid "YouTube / Google Video Width"
+msgstr ""
+
+#: inc/admin.php:964
+#: inc/admin_self_post.php:994
+msgid "The width of Shadowbox (in pixels) when displaying YouTube or Google Video. Defaults to 640."
+msgstr ""
+
+#: inc/admin.php:969
+#: inc/admin_self_post.php:999
+msgid "YouTube / Google Video Height"
+msgstr ""
+
+#: inc/admin.php:974
+#: inc/admin_self_post.php:1004
+msgid "The height of Shadowbox (in pixels) when when displaying YouTube of Google Video. Defaults to 385."
+msgstr ""
+
+#: inc/admin.php:979
+#: inc/admin_self_post.php:1009
+msgid "The settings for this plugin have been deleted. The plugin can now be"
+msgstr ""
+
+#: inc/admin.php:979
+#: inc/admin_self_post.php:1009
+msgid "Deactivate Shadowbox JS"
+msgstr ""
+
+#: inc/admin.php:979
+#: inc/admin_self_post.php:1009
+msgid "deactivated"
+msgstr ""
+
+#: inc/admin.php:979
+msgid "If you want to create the settings with their defaults so this plugin can be used again, set \"Reset to Defaults\" to \"true\" and click \"Save Changes\""
+msgstr ""
+
+#: inc/admin.php:981
+#: inc/admin_self_post.php:1011
+msgid "Resets"
+msgstr ""
+
+#: inc/admin.php:982
+#: inc/admin_self_post.php:1012
+msgid "These options will allow you to revert the options back to their defaults or to remove the options from the database for a clean uninstall."
+msgstr ""
+
+#: inc/admin.php:986
+#: inc/admin_self_post.php:1016
+msgid "Reset to Defaults"
+msgstr ""
+
+#: inc/admin.php:997
+#: inc/admin_self_post.php:1027
+msgid "Delete Options for a Clean Uninstall"
+msgstr ""
+
+#: inc/admin.php:1008
+#: inc/admin_self_post.php:1038
+msgid "Save Changes"
+msgstr ""
+
+#: inc/admin_self_post.php:413
+msgid "Settings saved as defaults"
+msgstr ""
+
+#: inc/admin_self_post.php:431
+msgid "Settings saved"
+msgstr ""
+
+#: inc/admin_self_post.php:1009
+msgid "If you want to re-enable the options so this plugin can be used again, set \"Reset to Defaults\" to \"true\" and click \"Save Changes\""
+msgstr ""
+

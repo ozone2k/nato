@@ -1,0 +1,31 @@
+body {
+	background: #e6e6e6 url('../images/background_white.png') repeat-x top;
+	color: #666;
+}
+a {
+	color: #333;
+}
+a:hover {
+	color: #000;
+}
+div#header {
+	border-bottom: 1px solid #b7b7b7;
+}
+h1 {
+	color: #000;
+}
+ul#navigation li a {
+	color: #999;
+}
+ul#navigation li a:hover {
+	color: #666;
+}
+div#content h2 {
+	color: #000;
+}
+a.comment-link {
+	color: #808080;
+}
+a.comment-link:hover {
+	color: #666;
+}
